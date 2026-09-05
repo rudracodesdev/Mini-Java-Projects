@@ -31,7 +31,7 @@ public class Demo
         int result1 = calc.sub(10, 8);
         System.out.println(result1);
 
-        int result2 = calc.mul(1, 8);
+        int result2 = calc.mul(10, 8);
         System.out.println(result2);
 
         float result3 = calc.div(15.0f, 4.0f);
